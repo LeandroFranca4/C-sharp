@@ -1,0 +1,14 @@
+C:\Users\leandro.franca\Documents\coda\C#\c#_A1\bin\Debug\net8.0\c#_A1.exe
+C:\Users\leandro.franca\Documents\coda\C#\c#_A1\bin\Debug\net8.0\c#_A1.deps.json
+C:\Users\leandro.franca\Documents\coda\C#\c#_A1\bin\Debug\net8.0\c#_A1.runtimeconfig.json
+C:\Users\leandro.franca\Documents\coda\C#\c#_A1\bin\Debug\net8.0\c#_A1.dll
+C:\Users\leandro.franca\Documents\coda\C#\c#_A1\bin\Debug\net8.0\c#_A1.pdb
+C:\Users\leandro.franca\Documents\coda\C#\c#_A1\obj\Debug\net8.0\c#_A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro.franca\Documents\coda\C#\c#_A1\obj\Debug\net8.0\c#_A1.AssemblyInfoInputs.cache
+C:\Users\leandro.franca\Documents\coda\C#\c#_A1\obj\Debug\net8.0\c#_A1.AssemblyInfo.cs
+C:\Users\leandro.franca\Documents\coda\C#\c#_A1\obj\Debug\net8.0\c#_A1.csproj.CoreCompileInputs.cache
+C:\Users\leandro.franca\Documents\coda\C#\c#_A1\obj\Debug\net8.0\c#_A1.dll
+C:\Users\leandro.franca\Documents\coda\C#\c#_A1\obj\Debug\net8.0\refint\c#_A1.dll
+C:\Users\leandro.franca\Documents\coda\C#\c#_A1\obj\Debug\net8.0\c#_A1.pdb
+C:\Users\leandro.franca\Documents\coda\C#\c#_A1\obj\Debug\net8.0\c#_A1.genruntimeconfig.cache
+C:\Users\leandro.franca\Documents\coda\C#\c#_A1\obj\Debug\net8.0\ref\c#_A1.dll
